@@ -1,4 +1,4 @@
-# hanoi-
+# hanoi
 Few lines of code to solve the hanoi tower problem.
 
 The function solve is the classical example of recursive function: it prints the list of moves which are necessary to achieve the goal.
